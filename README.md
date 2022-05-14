@@ -68,7 +68,7 @@ Visit http://localhost:3000/ in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Munsa/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Munsa1/hello-rails-back-end/issues).
 
 ## Show your support
 
