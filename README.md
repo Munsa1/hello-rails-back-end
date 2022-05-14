@@ -1,24 +1,81 @@
-# README
+# Hello Rails Back End App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Hello Rails back-end app is simple application that contains setup of rails APIs. The API loads a random greeting from database on every requset.
+## Link to Front end
 
-Things you may want to cover:
+[Hello React front end](https://github.com/Munsa1/hello-react-front-end)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Major languages (Ruby)
+- Framworks (Ruby on Rails)
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
+- A text editor(preferably Visual Studio Code)
 
-* How to run the test suite
+### Install
+- Ruby
+- Ruby on Rails
+- PostgresSQL
 
-* Services (job queues, cache servers, search engines, etc.)
+### Using it Locally
 
-* Deployment instructions
+- Clone the project
 
-* ...
+```sh
+git clone git@github.com:Munsa1/hello-rails-back-end.git
+cd hello-rails-back-end
+```
+
+### Setup
+
+Install gems with:
+
+```
+bundle install
+```
+
+Setup database with:
+
+```
+rails db:create
+rails db:migrate
+rails db:seed
+```
+
+### Usage
+
+Start server with:
+
+```
+rails server
+```
+
+Visit http://localhost:3000/ in your browser.
+
+## Authors
+
+👤 **Munsa Mibenge**
+
+- GitHub: [@Munsa1](https://github.com/Munasa1)
+- Twitter: [@MibengeMunsa](https://twitter.com/mibengemunsa)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Munsa/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Inspiration: Microverse
+
+## 📝 License
