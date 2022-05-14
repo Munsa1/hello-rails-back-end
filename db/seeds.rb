@@ -8,7 +8,5 @@
 Greeting.create(message: 'Hello Rails!')
 Greeting.create(message: 'Hello Ruby!')
 Greeting.create(message: 'Hello React!')
-Greeting.create(message: 'Hello PostgreSQL!')
 Greeting.create(message: 'HI!  Welcome to Rails React App!')
 Greeting.create(message: 'HI!  Greeting from the App!')
-Greeting.create(message: 'HI!  How are you today?')
